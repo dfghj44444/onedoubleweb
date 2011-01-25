@@ -20,6 +20,10 @@
 }
 "Files"
 {
+    "default.php"
+    {
+    "ProjRelPath" = "T"
+    }
     "index.php"
     {
     "ProjRelPath" = "T"
