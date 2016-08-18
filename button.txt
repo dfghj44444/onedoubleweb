@@ -1,0 +1,97 @@
+2668764855
+{
+    "button": [
+        {
+            "name": "汽车服务", 
+            "sub_button": [
+                {
+                    "type": "view", 
+                    "name": "我要洗车", 
+                    "url": "http://www.sanpinche.com/m.php?view=29", 
+                    "sub_button": [ ]
+                }, 
+                {
+                    "type": "view", 
+                    "name": "我要打蜡", 
+                    "url": "http://www.sanpinche.com/m.php?view=6", 
+                    "sub_button": [ ]
+                },  
+                {
+                    "type": "view", 
+                    "name": "我要保养", 
+                    "url": "http://www.sanpinche.com/m.php?mod=catalog&code=xiaobaoyang", 
+                    "sub_button": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "详情介绍", 
+            "sub_button": [
+                {
+                    "type": "view", 
+                    "name": "门店", 
+                    "url": "http://www.sanpinche.com/m.php?mod=seller", 
+                    "sub_button": [ ]
+                }, 
+                {
+                    "type": "view", 
+                    "name": "商城", 
+                    "url": "http://www.sanpinche.com/m.php", 
+                    "sub_button": [ ]
+                },                 
+                
+                {
+                    "type": "view", 
+                    "name": "服务流程", 
+                    "url": "http://www.sanpinche.com/process.php", 
+                    "sub_button": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "个人中心", 
+            "sub_button": [
+                {
+                    "type": "view", 
+                    "name": "我的订单", 
+                    "url": "http://www.sanpinche.com/m.php?mod=mecode=order", 
+                    "sub_button": [ ]
+                }, 
+                {
+                    "type": "view", 
+                    "name": "我的优惠券", 
+                    "url": "http://www.sanpinche.com/m.php?mod=mecode=coupons", 
+                    "sub_button": [ ]
+                },
+                {
+                    "type": "view", 
+                    "name": "快吐槽", 
+                    "url": "http://vzan.cc/f/s-52479", 
+                    "sub_button": [ ]
+                },  
+                {
+                    "type": "view", 
+                    "name": "违章查询", 
+                    "url": "http://chaweizhang.eclicks.cn/webapp/index?appid=10bd_source_light=1650570", 
+                    "sub_button": [ ]
+                }
+            ]
+        }
+    ]
+}
+
+三品车
+AppID(应用ID)wx2f1940c3c352e570
+AppSecret(应用密钥)84dc984f50efd92277b5e42a8199d132
+
+
+URL(服务器地址)
+http://www.sanpinche.com/m.php?mod=index&code=wechat
+
+
+Token(令牌)
+hzwPlC66cg8TjEk9ELzt
+
+
+EncodingAESKey(消息加解密密钥)
+2IcoyFcP7NQqLVkKIhShWhrBjID0BZxmDk02lHPwfvM
